@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  ShoppingApp
+
+  Created by Pragath on 28/03/23.
+  
+*/
+"Sweater Shop" = "متجر سترة";
+"Orange sweater" = "سترة برتقالية";
+"Red wine sweater" = "سترة النبيذ الأحمر";
+"Sand sweater" = "سترة الرمل";
+"Sea sweater" = "سترة البحر";
+"Beige sweater" = "سترة بيج";
+"Grey sweater" = "سترة رمادية";
+"Mink sweater" = "سترة المنك";
+"Dark Grey sweater" = "سترة رمادية داكنة";
+"My Cart" = "عربة التسوق الخاصة بي";
+"Your cart total is" = "بك هو إجمالي سلة التسوق الخاصة";

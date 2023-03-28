@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  ShoppingApp
+
+  Created by Pragath on 28/03/23.
+  
+*/
+"Sweater Shop" = "स्वेटर की दुकान";
+"Orange sweater" = "नारंगी स्वेटर";
+"Red wine sweater" = "रेड वाइन स्वेटर";
+"Sand sweater" = "रेत का स्वेटर";
+"Sea sweater" = "समुद्री स्वेटर";
+"Beige sweater" = "बेज स्वेटर";
+"Grey sweater" = "ग्रे स्वेटर";
+"Mink sweater" = "मिंक स्वेटर";
+"Dark Grey sweater" = "डार्क ग्रे स्वेटर";
+"My Cart" = "कार्ट";
+"Your cart total is" = "आपका कुल है";
+
